@@ -51,14 +51,5 @@ def main():
         print(f"\tQuestion: {question}\n")
         print(f"\tAnswer: {result['answer']}\n")
 
-
-
-
-
-
-
-
-
-
-
-    
+if __name__ == "__main__":
+    main()    
